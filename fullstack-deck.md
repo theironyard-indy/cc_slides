@@ -6,6 +6,26 @@
 
 ---
 
+## Frontend
+
+- HTML
+- CSS
+- JavaScript
+- Requests
+- Web Browsers
+
+---
+
+## Backend
+
+- Ruby/Python/what have you
+- SQL & Databases
+- Rails/Django/what have you
+- Responses
+- Servers
+
+---
+
 ![fit](http://tiy-crash-courses.s3.amazonaws.com/Crash%20Course%20-%20TIY%20Overview%20Simplified.001.jpeg)
 
 ---
