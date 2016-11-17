@@ -2,7 +2,12 @@
 
 Should you need it ...
 
-#### The Hatch / BeCreativeToday
+## The Hatch / BeCreativeToday
+
+
+### Sign In
+
+<https://online.theironyard.com/join/vwgrp>
 
 ---
 
@@ -42,53 +47,7 @@ Should you need it ...
 
 ---
 
-# FEE Slides go here
-
----
-
 ![fit](http://tiy-crash-courses.s3.amazonaws.com/response.png)
-
----
-
-## What is Ruby?
-
-Ruby is a dynamic, object-oriented scripting language.
-
-In human terms:
-
-*It's a flexible programming language designed for programmer productivity.*
-
----
-
-```ruby
-
-8.times do
-	print "Na"
-end
-print " Batman!"
-# NaNaNaNaNaNaNaNa Batman!
-
-[1,2,3,4,5,6].shuffle
-# [2,4,3,1,5,6]
-```
-
----
-
-## Databases & SQL
-
-- Databases are like linked spreadsheets
-- **S**tructured **Q**uery **L**anguage is how you ask questions
-- `SELECT * FROM folks;`
-
----
-
-## What is Rails?
-
-*A pioneer of Model-View-Controller architecture and still one of the most productive ways to make a web app*
-
----
-
-![fit](https://tiy-learn-content.s3.amazonaws.com/a6bfc7fb-mvc.png)
 
 ---
 
