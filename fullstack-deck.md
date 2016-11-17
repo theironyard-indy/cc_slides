@@ -6,6 +6,10 @@
 
 ---
 
+![fit](http://tiy-crash-courses.s3.amazonaws.com/request-response.png)
+
+---
+
 ## Frontend
 
 - HTML
@@ -26,6 +30,18 @@
 
 ---
 
+![fit](http://tiy-crash-courses.s3.amazonaws.com/request.png)
+
+---
+
+# FEE Slides go here
+
+---
+
+![fit](http://tiy-crash-courses.s3.amazonaws.com/response.png)
+
+---
+
 ## What is Ruby?
 
 Ruby is a dynamic, object-oriented scripting language.
@@ -33,6 +49,20 @@ Ruby is a dynamic, object-oriented scripting language.
 In human terms:
 
 *It's a flexible programming language designed for programmer productivity.*
+
+---
+
+```ruby
+
+8.times do
+	print "Na"
+end
+print " Batman!"
+# NaNaNaNaNaNaNaNa Batman!
+
+[1,2,3,4,5,6].shuffle
+# [2,4,3,1,5,6]
+```
 
 ---
 
